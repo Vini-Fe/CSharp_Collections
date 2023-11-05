@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\bin\Debug\net6.0\CSharpCollection.exe
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\bin\Debug\net6.0\CSharpCollection.deps.json
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\bin\Debug\net6.0\CSharpCollection.runtimeconfig.json
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\bin\Debug\net6.0\CSharpCollection.dll
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\bin\Debug\net6.0\CSharpCollection.pdb
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.AssemblyInfo.cs
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.dll
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\refint\CSharpCollection.dll
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.pdb
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\CSharpCollection.genruntimeconfig.cache
+C:\Users\vinic\source\repos\CSharpCollection\CSharpCollection\obj\Debug\net6.0\ref\CSharpCollection.dll
